@@ -1,0 +1,10 @@
+﻿  5.1.A.cpp
+C:\Student\ Tkachenko.Marharyta.IK11\Lab5.1.A\Lab5.1.A\Product.h(19,9): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab5.1.A\Lab5.1.A\Product.h(24,49): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab5.1.A\Lab5.1.A\Product.h(25,48): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab5.1.A\Lab5.1.A\Product.h(30,43): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab5.1.A\Lab5.1.A\Product.h(32,51): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab5.1.A\Lab5.1.A\Product.h(36,77): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab5.1.A\Lab5.1.A\5.1.A.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab5.1.A\Lab5.1.A\5.1.A.cpp(15,36): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Lab5.1.A.vcxproj -> C:\Student\ Tkachenko.Marharyta.IK11\Lab5.1.A\Debug\Lab5.1.A.exe
